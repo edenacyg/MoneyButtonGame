@@ -1,0 +1,49 @@
+.container, .bet {
+    padding: 20px;
+    margin-top: 5%;
+    margin: auto;
+    text-align: center;
+}
+
+.submit {
+    padding: 10px;
+}
+
+.bet {
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid;
+    width: 10%;
+    text-align: center;
+    display: inline-block;
+}
+
+.reset, .claim {
+    display: inline-block;
+}
+
+.reset input[type="submit"] {
+    color: white;
+    background-color: red;
+    padding: 10px 30px 10px 30px;
+} 
+
+.bet_btn input[type="submit"], .submit input[type="submit"]{
+    color: white;
+    background-color: green;
+    padding: 10px 30px 10px 30px;
+}
+
+.log {
+    border: 2px solid;
+    padding: 20px;
+    margin: 20px 150px 20px 150px;
+}
+
+.positive {
+    color: green;
+}
+
+.negative {
+    color: red;
+}
