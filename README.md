@@ -21,6 +21,6 @@ A mini-game that helps you make some money!
 <h2>💡 What I learned: </h2>
 <ul>
     <li>Use session data in storing values.</li>
-    <li>Learn how to pass and read form data</li>
-    <li>Apply page redirection </li>
+    <li>Learn how to pass and read form data.</li>
+    <li>Apply page redirection.</li>
 </ul>
