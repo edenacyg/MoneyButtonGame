@@ -1,5 +1,5 @@
 # Money Button Game
-A mini-game that helps you make some money!
+A mini-game that helps you make some money within a number of chances.
 <h2>📃 How to play: </h2>
 <ol type="1">
     <li>You will be presented with a screen displaying multiple virtual buttons, each representing a different monetary value.</li>
