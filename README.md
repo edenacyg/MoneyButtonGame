@@ -1,4 +1,4 @@
-# MoneyButtonGame
+# Money Button Game
 A mini-game that helps you make some money!
 <h2>📃 How to play: </h2>
 <ol type="1">
