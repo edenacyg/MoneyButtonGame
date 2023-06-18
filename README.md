@@ -13,9 +13,10 @@ A mini-game that helps you make some money!
 
 <h2>🛠 Tools used: </h2>
 <ul>
-    <li>PHP</li>
+    <li>HTML</li>
     <li>CSS</li>
-    <li>WAMP</li>
+    <li>PHP</li>
+    <li>WAMP Server</li>
 </ul>
 
 <h2>💡 What I learned: </h2>
